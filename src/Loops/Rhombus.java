@@ -3,6 +3,7 @@ package Loops;
 import java.util.Scanner;
 
 public class Rhombus {
+//Important: I used this file to test programs before putting them all in NumbersPrinting back when we could put only 10 files in the homework
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
